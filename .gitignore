@@ -12,15 +12,15 @@ target/
 .settings
 .springBeans
 .sts4-cache
-*.yml
-*.log
-.env
+
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
-/htmlReport
+.env
+out
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
